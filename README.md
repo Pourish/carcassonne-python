@@ -98,7 +98,4 @@ Developed as part of a university internship project.
 
 ---
 
-## 📄 License
 
-This project is for educational purposes only.  
-The original Carcassonne board game is a trademark of **Hans im Glück**.
