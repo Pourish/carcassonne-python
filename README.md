@@ -1,2 +1,2 @@
 # carcassonne-python
-Carcassonne board game in Python – university internship projec
+Carcassonne board game in Python – university internship project
