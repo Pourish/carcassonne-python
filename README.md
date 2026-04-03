@@ -76,14 +76,6 @@ python Menu.py
 
 ---
 
-## 🧪 Running Tests
-
-```bash
-python Backend/backend_test.py
-```
-
----
-
 ## 🛠️ Built With
 
 - **Python 3** – Core language
