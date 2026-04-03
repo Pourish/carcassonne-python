@@ -1,0 +1,666 @@
+{
+  "aktuellerSpieler": 0,
+  "field": {
+    "0,0": {
+      "karte_id": "D",
+      "position": [
+        0,
+        0
+      ],
+      "rotation": 0,
+      "figur": null,
+      "bereiche": [
+        {
+          "typ": "WegBereich",
+          "kanten": [
+            [
+              0,
+              1
+            ],
+            [
+              2,
+              1
+            ]
+          ]
+        },
+        {
+          "typ": "StadtBereich",
+          "kanten": [
+            [
+              1,
+              1
+            ]
+          ],
+          "wappen": false
+        },
+        {
+          "typ": "WiesenBereich",
+          "kanten": [
+            [
+              0,
+              0
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              2,
+              2
+            ]
+          ]
+        },
+        {
+          "typ": "WiesenBereich",
+          "kanten": [
+            [
+              0,
+              2
+            ],
+            [
+              2,
+              0
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "spieler": [
+    {
+      "name": "Spieler 1",
+      "farbe": "",
+      "anzahlFiguren": 7,
+      "figurenPositionen": [],
+      "punkte": 0
+    },
+    {
+      "name": "Spieler 2",
+      "farbe": "",
+      "anzahlFiguren": 7,
+      "figurenPositionen": [],
+      "punkte": 0
+    },
+    {
+      "name": "Spieler 3",
+      "farbe": "",
+      "anzahlFiguren": 7,
+      "figurenPositionen": [],
+      "punkte": 0
+    },
+    {
+      "name": "Spieler 4",
+      "farbe": "",
+      "anzahlFiguren": 7,
+      "figurenPositionen": [],
+      "punkte": 0
+    },
+    {
+      "name": "Spieler 5",
+      "farbe": "",
+      "anzahlFiguren": 7,
+      "figurenPositionen": [],
+      "punkte": 0
+    }
+  ],
+  "kartenstapel": [
+    {
+      "karte_id": "A",
+      "position": [
+        0,
+        0
+      ],
+      "rotation": 0,
+      "figur": null,
+      "bereiche": [
+        {
+          "typ": "KlosterBereich",
+          "kanten": []
+        },
+        {
+          "typ": "WegBereich",
+          "kanten": [
+            [
+              2,
+              1
+            ]
+          ]
+        },
+        {
+          "typ": "WiesenBereich",
+          "kanten": [
+            [
+              2,
+              2
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              2,
+              0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "karte_id": "X",
+      "position": [
+        0,
+        0
+      ],
+      "rotation": 0,
+      "figur": null,
+      "bereiche": [
+        {
+          "typ": "WegBereich",
+          "kanten": [
+            [
+              3,
+              1
+            ]
+          ]
+        },
+        {
+          "typ": "WegBereich",
+          "kanten": [
+            [
+              2,
+              1
+            ]
+          ]
+        },
+        {
+          "typ": "WegBereich",
+          "kanten": [
+            [
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "typ": "WegBereich",
+          "kanten": [
+            [
+              0,
+              1
+            ]
+          ]
+        },
+        {
+          "typ": "WiesenBereich",
+          "kanten": [
+            [
+              0,
+              0
+            ],
+            [
+              3,
+              2
+            ]
+          ]
+        },
+        {
+          "typ": "WiesenBereich",
+          "kanten": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "typ": "WiesenBereich",
+          "kanten": [
+            [
+              2,
+              0
+            ],
+            [
+              1,
+              2
+            ]
+          ]
+        },
+        {
+          "typ": "WiesenBereich",
+          "kanten": [
+            [
+              2,
+              2
+            ],
+            [
+              3,
+              0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "karte_id": "X",
+      "position": [
+        0,
+        0
+      ],
+      "rotation": 0,
+      "figur": null,
+      "bereiche": [
+        {
+          "typ": "WegBereich",
+          "kanten": [
+            [
+              3,
+              1
+            ]
+          ]
+        },
+        {
+          "typ": "WegBereich",
+          "kanten": [
+            [
+              2,
+              1
+            ]
+          ]
+        },
+        {
+          "typ": "WegBereich",
+          "kanten": [
+            [
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "typ": "WegBereich",
+          "kanten": [
+            [
+              0,
+              1
+            ]
+          ]
+        },
+        {
+          "typ": "WiesenBereich",
+          "kanten": [
+            [
+              0,
+              0
+            ],
+            [
+              3,
+              2
+            ]
+          ]
+        },
+        {
+          "typ": "WiesenBereich",
+          "kanten": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "typ": "WiesenBereich",
+          "kanten": [
+            [
+              2,
+              0
+            ],
+            [
+              1,
+              2
+            ]
+          ]
+        },
+        {
+          "typ": "WiesenBereich",
+          "kanten": [
+            [
+              2,
+              2
+            ],
+            [
+              3,
+              0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "karte_id": "L",
+      "position": [
+        0,
+        0
+      ],
+      "rotation": 0,
+      "figur": null,
+      "bereiche": [
+        {
+          "typ": "WegBereich",
+          "kanten": [
+            [
+              0,
+              1
+            ]
+          ]
+        },
+        {
+          "typ": "WegBereich",
+          "kanten": [
+            [
+              3,
+              1
+            ]
+          ]
+        },
+        {
+          "typ": "WegBereich",
+          "kanten": [
+            [
+              2,
+              1
+            ]
+          ]
+        },
+        {
+          "typ": "StadtBereich",
+          "kanten": [
+            [
+              1,
+              1
+            ]
+          ],
+          "wappen": false
+        },
+        {
+          "typ": "WiesenBereich",
+          "kanten": [
+            [
+              0,
+              0
+            ],
+            [
+              3,
+              2
+            ]
+          ]
+        },
+        {
+          "typ": "WiesenBereich",
+          "kanten": [
+            [
+              2,
+              2
+            ],
+            [
+              3,
+              0
+            ]
+          ]
+        },
+        {
+          "typ": "WiesenBereich",
+          "kanten": [
+            [
+              0,
+              2
+            ],
+            [
+              2,
+              0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "karte_id": "H",
+      "position": [
+        0,
+        0
+      ],
+      "rotation": 0,
+      "figur": null,
+      "bereiche": [
+        {
+          "typ": "StadtBereich",
+          "kanten": [
+            [
+              3,
+              1
+            ]
+          ],
+          "wappen": false
+        },
+        {
+          "typ": "StadtBereich",
+          "kanten": [
+            [
+              1,
+              1
+            ]
+          ],
+          "wappen": false
+        },
+        {
+          "typ": "WiesenBereich",
+          "kanten": [
+            [
+              0,
+              1
+            ],
+            [
+              2,
+              1
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "karte_id": "H",
+      "position": [
+        0,
+        0
+      ],
+      "rotation": 0,
+      "figur": null,
+      "bereiche": [
+        {
+          "typ": "StadtBereich",
+          "kanten": [
+            [
+              3,
+              1
+            ]
+          ],
+          "wappen": false
+        },
+        {
+          "typ": "StadtBereich",
+          "kanten": [
+            [
+              1,
+              1
+            ]
+          ],
+          "wappen": false
+        },
+        {
+          "typ": "WiesenBereich",
+          "kanten": [
+            [
+              0,
+              1
+            ],
+            [
+              2,
+              1
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "karte_id": "A",
+      "position": [
+        0,
+        0
+      ],
+      "rotation": 0,
+      "figur": null,
+      "bereiche": [
+        {
+          "typ": "KlosterBereich",
+          "kanten": []
+        },
+        {
+          "typ": "WegBereich",
+          "kanten": [
+            [
+              2,
+              1
+            ]
+          ]
+        },
+        {
+          "typ": "WiesenBereich",
+          "kanten": [
+            [
+              2,
+              2
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              2,
+              0
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "aktuelleKachel": {
+    "karte_id": "L",
+    "position": [
+      0,
+      0
+    ],
+    "rotation": 0,
+    "figur": null,
+    "bereiche": [
+      {
+        "typ": "WegBereich",
+        "kanten": [
+          [
+            0,
+            1
+          ]
+        ]
+      },
+      {
+        "typ": "WegBereich",
+        "kanten": [
+          [
+            3,
+            1
+          ]
+        ]
+      },
+      {
+        "typ": "WegBereich",
+        "kanten": [
+          [
+            2,
+            1
+          ]
+        ]
+      },
+      {
+        "typ": "StadtBereich",
+        "kanten": [
+          [
+            1,
+            1
+          ]
+        ],
+        "wappen": false
+      },
+      {
+        "typ": "WiesenBereich",
+        "kanten": [
+          [
+            0,
+            0
+          ],
+          [
+            3,
+            2
+          ]
+        ]
+      },
+      {
+        "typ": "WiesenBereich",
+        "kanten": [
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            0
+          ]
+        ]
+      },
+      {
+        "typ": "WiesenBereich",
+        "kanten": [
+          [
+            0,
+            2
+          ],
+          [
+            2,
+            0
+          ]
+        ]
+      }
+    ]
+  }
+}
