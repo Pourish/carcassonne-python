@@ -61,7 +61,7 @@ Carcassonne/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR-USERNAME/carcassonne-python.git
+git clone https://github.com/pourish/carcassonne-python.git
 cd carcassonne-python
 
 # Install dependencies
